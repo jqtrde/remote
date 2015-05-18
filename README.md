@@ -50,13 +50,13 @@ The Landsat program hosts the longest record of images collected of the Earth in
 
 Since 2008, Landsat data has been publically available making it a staple for many remote-sensing workflows.
 
-#### Applications
+##### Applications
 
 - [Band combinations](http://blogs.esri.com/esri/arcgis/2015/04/21/landsat-8-enthusiasts-whats-your-favorite-band-combination/)
 - [How to interpret false-color images](http://earthobservatory.nasa.gov/Features/FalseColor/page6.php)
 - [Satellite imagery in mineral exploration](http://blog.micromine.com/tag/landsat-8/)
 
-#### Acquiring data
+##### Acquiring data
 
 Data can be acquired using:
 - [Snapsat](http://snapsat.org)
@@ -65,7 +65,7 @@ Data can be acquired using:
 - [Earth Explorer](http://earthexplorer.usgs.gov/)
 - [Amazon's Public Data Sets](https://aws.amazon.com/public-data-sets/landsat/)
 
-#### LEDAPS
+##### LEDAPS
 
 - [LEDAPS for better Landsat imagery](https://www.mapbox.com/blog/ledaps-for-better-landsat-imagery/)
 - [Removing atmospheric scattering with LEDAPS](https://www.mapbox.com/blog/removing-atmosphere-scatter/)
