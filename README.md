@@ -21,7 +21,6 @@ Overview
 
 - [Earth Explorer](http://earthexplorer.usgs.gov/)
 - [Land Surface Imaging Explorer](http://lsiexplorer.cr.usgs.gov/)
-- [An overview of Satellite imagery resources](http://carpe.umd.edu/geospatial/satellite_imagery_resources.php)
 - [An introduction to Hyperspectral remote sensing](http://www.geol-amu.org/notes/m14a-4-11.htm)
 - [WELD Distribution System](http://globalweld.cr.usgs.gov/)
 - [NASA NEX](https://aws.amazon.com/nasa/nex/)
@@ -39,12 +38,39 @@ Satellites
 
 ### Landsat
 
+The Landsat program hosts the longest record of images collected of the Earth in existence. 
+- The program has so far consisted of the eight missions, beginning in 1972 with the Launch of Landsat 1. 
+- Landsat 3 introduced a fifth, thermal band. 
+- Landsat 4 introduced the Thematic Mapper, which consisted of 7 bands and a 30m resolution.
+- Landsat 5 was in most ways similar to 4.
+- Landsat 6 failed to achieve orbit.
+- Landsat 7 introduced an improved thermal sensor and a panchromatic band. In 2003, it's scan-line corrector failed, yielding heavily banded images.
+- Landsat 8 was launched in 2013, capturing 11 bands.
+- Landsat 9 is scheduled to launch in 2023.
+
+Since 2008, Landsat data has been publically available making it a staple for many remote-sensing workflows.
+
+#### Applications
+
 - [Band combinations](http://blogs.esri.com/esri/arcgis/2015/04/21/landsat-8-enthusiasts-whats-your-favorite-band-combination/)
 - [How to interpret false-color images](http://earthobservatory.nasa.gov/Features/FalseColor/page6.php)
 - [Satellite imagery in mineral exploration](http://blog.micromine.com/tag/landsat-8/)
+
+#### Acquiring data
+
+Data can be acquired using:
+- [Snapsat](http://snapsat.org)
+- [Astrodigital's]() [Fetch](http://fetch.astrodigital.com/)
+- [Development Seed's](https://developmentseed.org/) [landsat-util](https://github.com/developmentseed/landsat-util)
+- [Earth Explorer](http://earthexplorer.usgs.gov/)
+- [Amazon's Public Data Sets](https://aws.amazon.com/public-data-sets/landsat/)
+
+#### LEDAPS
+
 - [LEDAPS for better Landsat imagery](https://www.mapbox.com/blog/ledaps-for-better-landsat-imagery/)
 - [Removing atmospheric scattering with LEDAPS](https://www.mapbox.com/blog/removing-atmosphere-scatter/)
 - [LEDAPS source](https://code.google.com/p/ledaps/wiki/Version_2_3_0)
+
 
 ### Sentinel
 
@@ -92,3 +118,9 @@ Tools
 
 - **[bfastspatial](https://github.com/dutri001/bfastSpatial)** - Set of utilities and wrappers to perform change detection on satellite image time-series (Landsat and MODIS). Includes pre-processing steps and functions for spatial implementation of bfastmonitor change detection and post processing of the results.
 - **[python-raster-stats](https://github.com/perrygeo/python-raster-stats)** - Summary statistics of geospatial raster datasets values based on vector geometries.
+
+
+See Also
+--------
+
+- [An overview of Satellite imagery resources](http://carpe.umd.edu/geospatial/satellite_imagery_resources.php)
