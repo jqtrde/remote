@@ -3,6 +3,18 @@ Remote
 
 Remote sensing resources.
 
+1. [Overview](https://github.com/jacquestardie/remote#overview)
+2. [Satellite](https://github.com/jacquestardie/remote#satellites)
+  - [ASTER](https://github.com/jacquestardie/remote#aster)
+  - [ISS-RapidScat](https://github.com/jacquestardie/remote#rapidscat)
+  - [Landsat](https://github.com/jacquestardie/remote#landsat)
+  - [MODIS](https://github.com/jacquestardie/remote#modis)
+  - [OCO-2](https://github.com/jacquestardie/remote#oco-2)
+  - [Sentinel](https://github.com/jacquestardie/remote#sentinel)
+  - [VIIRS](https://github.com/jacquestardie/remote#viirs)
+3. [Acquiring data](https://github.com/jacquestardie/remote#acquiring-data)
+4. [Tools](https://github.com/jacquestardie/remote#tools)
+
 
 Overview
 --------
@@ -42,21 +54,23 @@ Satellites
 - [InSARap](http://insarap.org/)
 
 
-### Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER)
+### ASTER
 
 The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) is one of a number of instruments on board the Terra platform, which was launched in December 1999. ASTER provides fourteen spectral bands with 15- to 90-meter resolutions depending on the band(s). ASTER does not acquire data continuously; its sensors are activated only to collect specific scenes upon request.
 
 [More](https://lta.cr.usgs.gov/satellite_aster) [here](http://asterweb.jpl.nasa.gov/)
 
 
-### Visible Infrared Imaging Radiometer Suite (VIIRS)
+### VIIRS
 
 VIIRS, a scanning radiometer, collects visible and infrared imagery and radiometric measurements of the land, atmosphere, cryosphere, and oceans. VIIRS data is used to measure cloud and aerosol properties, ocean color, sea and land surface temperature, ice motion and temperature, fires, and Earth’s albedo. Climatologists use VIIRS data to improve our understanding of global climate change.
 
 [More](http://npp.gsfc.nasa.gov/viirs.html)
 
 
-### Orbiting Carbon Observatory-2 (OCO-2)
+### OCO-2
+
+Orbiting Carbon Observatory-2
 
 - [OCO-2 data is available](http://disc.sci.gsfc.nasa.gov/datareleases/First_CO2_data_from_OCO-2)
 - [Official OCO-2 documentation](http://disc.sci.gsfc.nasa.gov/OCO-2/documentation/oco-2-v6)
@@ -70,7 +84,10 @@ The ISS-RapidScat instrument is a speedy and cost-effective replacement for NASA
 [More](http://www.jpl.nasa.gov/missions/iss-rapidscat/)
 
 
-Libraries
+Acquiring data
+--------------
+
+Tools
 ---------
 
 - **[bfastspatial](https://github.com/dutri001/bfastSpatial)** - Set of utilities and wrappers to perform change detection on satellite image time-series (Landsat and MODIS). Includes pre-processing steps and functions for spatial implementation of bfastmonitor change detection and post processing of the results.
