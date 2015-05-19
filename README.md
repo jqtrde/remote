@@ -3,25 +3,17 @@ Remote
 
 Remote sensing resources.
 
-1. [Overview](https://github.com/jacquestardie/remote#overview)
-2. [Satellite](https://github.com/jacquestardie/remote#satellites)
-  - [ASTER](https://github.com/jacquestardie/remote#aster)
-  - [ISS-RapidScat](https://github.com/jacquestardie/remote#rapidscat)
-  - [Landsat](https://github.com/jacquestardie/remote#landsat)
-  - [MODIS](https://github.com/jacquestardie/remote#modis)
-  - [OCO-2](https://github.com/jacquestardie/remote#oco-2)
-  - [Sentinel](https://github.com/jacquestardie/remote#sentinel)
-  - [VIIRS](https://github.com/jacquestardie/remote#viirs)
-3. [Acquiring data](https://github.com/jacquestardie/remote#acquiring-data)
-4. [Tools](https://github.com/jacquestardie/remote#tools)
+- [ASTER](https://github.com/jacquestardie/remote#aster)
+- [ISS-RapidScat](https://github.com/jacquestardie/remote#rapidscat)
+- [Landsat](https://github.com/jacquestardie/remote#landsat)
+- [MODIS](https://github.com/jacquestardie/remote#modis)
+- [OCO-2](https://github.com/jacquestardie/remote#oco-2)
+- [Sentinel](https://github.com/jacquestardie/remote#sentinel)
+- [VIIRS](https://github.com/jacquestardie/remote#viirs)
 
 
-
-Satellites
-----------
-
-
-### Landsat
+Landsat
+-------
 
 The Landsat program hosts the longest record of images collected of the Earth in existence. 
 - The program has so far consisted of the eight missions, beginning in 1972 with the Launch of Landsat 1. 
@@ -35,13 +27,13 @@ The Landsat program hosts the longest record of images collected of the Earth in
 
 Since 2008, Landsat data has been publically available making it a staple for many remote-sensing workflows.
 
-##### Applications
+#### Applications
 
 - [Band combinations](http://blogs.esri.com/esri/arcgis/2015/04/21/landsat-8-enthusiasts-whats-your-favorite-band-combination/)
 - [How to interpret false-color images](http://earthobservatory.nasa.gov/Features/FalseColor/page6.php)
 - [Satellite imagery in mineral exploration](http://blog.micromine.com/tag/landsat-8/)
 
-##### Acquiring data
+#### Acquiring data
 
 Data can be acquired using:
 - [Snapsat](http://snapsat.org)
@@ -50,14 +42,15 @@ Data can be acquired using:
 - [Earth Explorer](http://earthexplorer.usgs.gov/)
 - [Amazon's Public Data Sets](https://aws.amazon.com/public-data-sets/landsat/)
 
-##### LEDAPS
+#### LEDAPS
 
 - [LEDAPS for better Landsat imagery](https://www.mapbox.com/blog/ledaps-for-better-landsat-imagery/)
 - [Removing atmospheric scattering with LEDAPS](https://www.mapbox.com/blog/removing-atmosphere-scatter/)
 - [LEDAPS source](https://code.google.com/p/ledaps/wiki/Version_2_3_0)
 
 
-### Sentinel
+Sentinel
+--------
 
 - [Sentinel 1 Scientific Data Hub](https://scihub.esa.int/)
 - [Sentinel Data Access](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
@@ -65,21 +58,24 @@ Data can be acquired using:
 - [InSARap](http://insarap.org/)
 
 
-### ASTER
+ASTER
+-----
 
 The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) is one of a number of instruments on board the Terra platform, which was launched in December 1999. ASTER provides fourteen spectral bands with 15- to 90-meter resolutions depending on the band(s). ASTER does not acquire data continuously; its sensors are activated only to collect specific scenes upon request.
 
 [More](https://lta.cr.usgs.gov/satellite_aster) [here](http://asterweb.jpl.nasa.gov/)
 
 
-### VIIRS
+VIIRS
+-----
 
 VIIRS, a scanning radiometer, collects visible and infrared imagery and radiometric measurements of the land, atmosphere, cryosphere, and oceans. VIIRS data is used to measure cloud and aerosol properties, ocean color, sea and land surface temperature, ice motion and temperature, fires, and Earth’s albedo. Climatologists use VIIRS data to improve our understanding of global climate change.
 
 [More](http://npp.gsfc.nasa.gov/viirs.html)
 
 
-### OCO-2
+OCO-2
+-----
 
 Orbiting Carbon Observatory-2
 
@@ -87,26 +83,17 @@ Orbiting Carbon Observatory-2
 - [Official OCO-2 documentation](http://disc.sci.gsfc.nasa.gov/OCO-2/documentation/oco-2-v6)
 - [Datasets](ftp://oco2.gesdisc.eosdis.nasa.gov/data/s4pa/OCO2_DATA/)
 
-### ISS-RapidScat
 
+ISS-RapidScat
+-------------
 
 The ISS-RapidScat instrument is a speedy and cost-effective replacement for NASA's QuikScat Earth satellite, which monitored ocean winds to provide essential measurements used in weather predictions, including hurricane monitoring. So essential were QuikScat's measurements that when the satellite stopped collecting wind data in late 2009, NASA was challenged to quickly and cost-effectively conceive of a replacement. NASA's Jet Propulsion Laboratory and the agency's station program came up with a solution that uses the framework of the International Space Station and reuses hardware originally built to test parts of QuikScat to create an instrument for a fraction of the cost and time it would take to build and launch a new satellite. 
 
 [More](http://www.jpl.nasa.gov/missions/iss-rapidscat/)
 
 
-Acquiring data
---------------
-
-Tools
----------
-
-- **[bfastspatial](https://github.com/dutri001/bfastSpatial)** - Set of utilities and wrappers to perform change detection on satellite image time-series (Landsat and MODIS). Includes pre-processing steps and functions for spatial implementation of bfastmonitor change detection and post processing of the results.
-- **[python-raster-stats](https://github.com/perrygeo/python-raster-stats)** - Summary statistics of geospatial raster datasets values based on vector geometries.
-
-
 See Also
---------
+========
 
 - [An overview of Satellite imagery resources](http://carpe.umd.edu/geospatial/satellite_imagery_resources.php)
 - [Earth Explorer](http://earthexplorer.usgs.gov/)
