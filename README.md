@@ -16,21 +16,6 @@ Remote sensing resources.
 4. [Tools](https://github.com/jacquestardie/remote#tools)
 
 
-Overview
---------
-
-- [Earth Explorer](http://earthexplorer.usgs.gov/)
-- [Land Surface Imaging Explorer](http://lsiexplorer.cr.usgs.gov/)
-- [An introduction to Hyperspectral remote sensing](http://www.geol-amu.org/notes/m14a-4-11.htm)
-- [WELD Distribution System](http://globalweld.cr.usgs.gov/)
-- [NASA NEX](https://aws.amazon.com/nasa/nex/)
-- [Australian's doing cool things](http://www.qld.gov.au/environment/land/vegetation/mapping/satellite-images/april/)
-- [Wikipedia: Multispectral images](https://en.wikipedia.org/wiki/Multispectral_image)
-- [Wikipedia: Multispectral pattern recognition](https://en.wikipedia.org/wiki/Multispectral_pattern_recognition)
-- [LEDAPS](http://ledapsweb.nascom.nasa.gov/overview/overview.html) and a [repo](https://github.com/dongjief/ledaps)
-- [The HDF5 file format](http://www.gdal.org/frmt_hdf5.html)
-- [Moon data!](http://astrogeology.usgs.gov/search/details/Moon/LRO/LOLA/Lunar_LRO_LOLA_Global_LDEM_118m_Mar2014/cub)
-
 
 Satellites
 ----------
@@ -124,3 +109,14 @@ See Also
 --------
 
 - [An overview of Satellite imagery resources](http://carpe.umd.edu/geospatial/satellite_imagery_resources.php)
+- [Earth Explorer](http://earthexplorer.usgs.gov/)
+- [Land Surface Imaging Explorer](http://lsiexplorer.cr.usgs.gov/)
+- [An introduction to Hyperspectral remote sensing](http://www.geol-amu.org/notes/m14a-4-11.htm)
+- [WELD Distribution System](http://globalweld.cr.usgs.gov/)
+- [NASA NEX](https://aws.amazon.com/nasa/nex/)
+- [Australian's doing cool things](http://www.qld.gov.au/environment/land/vegetation/mapping/satellite-images/april/)
+- [Wikipedia: Multispectral images](https://en.wikipedia.org/wiki/Multispectral_image)
+- [Wikipedia: Multispectral pattern recognition](https://en.wikipedia.org/wiki/Multispectral_pattern_recognition)
+- [LEDAPS](http://ledapsweb.nascom.nasa.gov/overview/overview.html) and a [repo](https://github.com/dongjief/ledaps)
+- [The HDF5 file format](http://www.gdal.org/frmt_hdf5.html)
+- [Moon data!](http://astrogeology.usgs.gov/search/details/Moon/LRO/LOLA/Lunar_LRO_LOLA_Global_LDEM_118m_Mar2014/cub)
