@@ -3,13 +3,17 @@ Remote
 
 Remote sensing resources.
 
-- [ASTER](https://github.com/jacquestardie/remote#aster)
-- [ISS-RapidScat](https://github.com/jacquestardie/remote#rapidscat)
-- [Landsat](https://github.com/jacquestardie/remote#landsat)
-- [MODIS](https://github.com/jacquestardie/remote#modis)
-- [OCO-2](https://github.com/jacquestardie/remote#oco-2)
-- [Sentinel](https://github.com/jacquestardie/remote#sentinel)
-- [VIIRS](https://github.com/jacquestardie/remote#viirs)
+ | Name
+:----------- | :---
+[ASTER](https://github.com/jacquestardie/remote#aster) | Advanced Spaceborne Thermal Emission and Reflection Radiometer
+[GPM](https://github.com/jacquestardie/remote#gpm) | Global Precipitation Measurement
+[ISS-RapidScat](https://github.com/jacquestardie/remote#rapidscat) | 
+[Landsat](https://github.com/jacquestardie/remote#landsat) | 
+[MODIS](https://github.com/jacquestardie/remote#modis) | Moderate Resolution Imaging Spectroradiometer
+[OCO-2](https://github.com/jacquestardie/remote#oco-2) | Orbiting Carbon Observatory
+[Sentinel](https://github.com/jacquestardie/remote#sentinel) |
+[TRMM](https://github.com/jacquestardie/remote#trmm) | Tropical Rainfall Measuring Mission
+[VIIRS](https://github.com/jacquestardie/remote#viirs) | Visible Infrared Imaging Radiometer Suite
 
 
 Landsat
@@ -61,7 +65,7 @@ Sentinel
 ASTER
 -----
 
-The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) is one of a number of instruments on board the Terra platform, which was launched in December 1999. ASTER provides fourteen spectral bands with 15- to 90-meter resolutions depending on the band(s). ASTER does not acquire data continuously; its sensors are activated only to collect specific scenes upon request.
+One of a number of instruments on board the Terra platform, which was launched in December 1999. ASTER provides fourteen spectral bands with 15 to 90 meter resolutions depending on the band(s). ASTER does not acquire data continuously; its sensors are activated only to collect specific scenes upon request.
 
 [More](https://lta.cr.usgs.gov/satellite_aster) [here](http://asterweb.jpl.nasa.gov/)
 
@@ -90,6 +94,8 @@ ISS-RapidScat
 The ISS-RapidScat instrument is a speedy and cost-effective replacement for NASA's QuikScat Earth satellite, which monitored ocean winds to provide essential measurements used in weather predictions, including hurricane monitoring. So essential were QuikScat's measurements that when the satellite stopped collecting wind data in late 2009, NASA was challenged to quickly and cost-effectively conceive of a replacement. NASA's Jet Propulsion Laboratory and the agency's station program came up with a solution that uses the framework of the International Space Station and reuses hardware originally built to test parts of QuikScat to create an instrument for a fraction of the cost and time it would take to build and launch a new satellite. 
 
 [More](http://www.jpl.nasa.gov/missions/iss-rapidscat/)
+
+GPM 
 
 
 See Also
