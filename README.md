@@ -71,8 +71,10 @@ Data can be acquired using:
 - [LEDAPS source](https://code.google.com/p/ledaps/wiki/Version_2_3_0)
 
 
-MODIS
------
+[MODIS](http://modis.gsfc.nasa.gov/)
+------------------------------------
+
+MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (originally known as EOS AM-1) and Aqua (originally known as EOS PM-1) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths.
 
 
 [OCO-2](http://oco.jpl.nasa.gov/)
