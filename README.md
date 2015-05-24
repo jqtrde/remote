@@ -78,10 +78,12 @@ VIIRS, a scanning radiometer, collects visible and infrared imagery and radiomet
 [More](http://npp.gsfc.nasa.gov/viirs.html)
 
 
-OCO-2
------
+[OCO-2](http://oco.jpl.nasa.gov/)
+---------------------------------
 
-Orbiting Carbon Observatory-2
+> Watching the Earth breathe.
+
+Launched July 2, 2014, OCO-2 is the first dedicated remote-sensing satellite built to measure atmospheric carbon dioxide levels from space. OCO-2 is able to quantify CO2 variability over seasonal cycles.
 
 - [OCO-2 data is available](http://disc.sci.gsfc.nasa.gov/datareleases/First_CO2_data_from_OCO-2)
 - [Official OCO-2 documentation](http://disc.sci.gsfc.nasa.gov/OCO-2/documentation/oco-2-v6)
