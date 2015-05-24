@@ -15,6 +15,24 @@ Remote sensing resources.
 [TRMM](https://github.com/jacquestardie/remote#trmm) | Tropical Rainfall Measuring Mission
 [VIIRS](https://github.com/jacquestardie/remote#viirs) | Visible Infrared Imaging Radiometer Suite
 
+ASTER
+-----
+
+One of a number of instruments on board the Terra platform, which was launched in December 1999. ASTER provides fourteen spectral bands with 15 to 90 meter resolutions depending on the band(s). ASTER does not acquire data continuously; its sensors are activated only to collect specific scenes upon request.
+
+[More](https://lta.cr.usgs.gov/satellite_aster) [here](http://asterweb.jpl.nasa.gov/)
+
+GPM
+---
+
+
+ISS-RapidScat
+-------------
+
+The ISS-RapidScat instrument is a speedy and cost-effective replacement for NASA's QuikScat Earth satellite, which monitored ocean winds to provide essential measurements used in weather predictions, including hurricane monitoring. So essential were QuikScat's measurements that when the satellite stopped collecting wind data in late 2009, NASA was challenged to quickly and cost-effectively conceive of a replacement. NASA's Jet Propulsion Laboratory and the agency's station program came up with a solution that uses the framework of the International Space Station and reuses hardware originally built to test parts of QuikScat to create an instrument for a fraction of the cost and time it would take to build and launch a new satellite. 
+
+[More](http://www.jpl.nasa.gov/missions/iss-rapidscat/)
+
 
 Landsat
 -------
@@ -53,29 +71,8 @@ Data can be acquired using:
 - [LEDAPS source](https://code.google.com/p/ledaps/wiki/Version_2_3_0)
 
 
-Sentinel
---------
-
-- [Sentinel 1 Scientific Data Hub](https://scihub.esa.int/)
-- [Sentinel Data Access](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
-- [Nepal Earthquake on radar](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Nepal_earthquake_on_the_radar)
-- [InSARap](http://insarap.org/)
-
-
-ASTER
+MODIS
 -----
-
-One of a number of instruments on board the Terra platform, which was launched in December 1999. ASTER provides fourteen spectral bands with 15 to 90 meter resolutions depending on the band(s). ASTER does not acquire data continuously; its sensors are activated only to collect specific scenes upon request.
-
-[More](https://lta.cr.usgs.gov/satellite_aster) [here](http://asterweb.jpl.nasa.gov/)
-
-
-VIIRS
------
-
-VIIRS, a scanning radiometer, collects visible and infrared imagery and radiometric measurements of the land, atmosphere, cryosphere, and oceans. VIIRS data is used to measure cloud and aerosol properties, ocean color, sea and land surface temperature, ice motion and temperature, fires, and Earth’s albedo. Climatologists use VIIRS data to improve our understanding of global climate change.
-
-[More](http://npp.gsfc.nasa.gov/viirs.html)
 
 
 [OCO-2](http://oco.jpl.nasa.gov/)
@@ -90,14 +87,26 @@ Launched July 2, 2014, OCO-2 is the first dedicated remote-sensing satellite bui
 - [Datasets](ftp://oco2.gesdisc.eosdis.nasa.gov/data/s4pa/OCO2_DATA/)
 
 
-ISS-RapidScat
--------------
 
-The ISS-RapidScat instrument is a speedy and cost-effective replacement for NASA's QuikScat Earth satellite, which monitored ocean winds to provide essential measurements used in weather predictions, including hurricane monitoring. So essential were QuikScat's measurements that when the satellite stopped collecting wind data in late 2009, NASA was challenged to quickly and cost-effectively conceive of a replacement. NASA's Jet Propulsion Laboratory and the agency's station program came up with a solution that uses the framework of the International Space Station and reuses hardware originally built to test parts of QuikScat to create an instrument for a fraction of the cost and time it would take to build and launch a new satellite. 
+Sentinel
+--------
 
-[More](http://www.jpl.nasa.gov/missions/iss-rapidscat/)
+- [Sentinel 1 Scientific Data Hub](https://scihub.esa.int/)
+- [Sentinel Data Access](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
+- [Nepal Earthquake on radar](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Nepal_earthquake_on_the_radar)
+- [InSARap](http://insarap.org/)
 
-GPM 
+
+TRMM
+----
+
+
+VIIRS
+-----
+
+VIIRS, a scanning radiometer, collects visible and infrared imagery and radiometric measurements of the land, atmosphere, cryosphere, and oceans. VIIRS data is used to measure cloud and aerosol properties, ocean color, sea and land surface temperature, ice motion and temperature, fires, and Earth’s albedo. Climatologists use VIIRS data to improve our understanding of global climate change.
+
+[More](http://npp.gsfc.nasa.gov/viirs.html)
 
 
 See Also
