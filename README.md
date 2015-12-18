@@ -104,6 +104,13 @@ Sentinel
 - [Nepal Earthquake on radar](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Nepal_earthquake_on_the_radar)
 - [InSARap](http://insarap.org/)
 
+#### Acquiring data
+
+Data can be acquired using:
+- [Sentinel Scientific Data Hub](https://scihub.copernicus.eu/dhus/#/home)
+- [VERTEX - Alaska Satellite Facility Data Portal](https://vertex.daac.asf.alaska.edu)
+- [PEPS - Plateforme d’Exploitation des Produits Sentinel (Fr)](https://peps.cnes.fr)
+
 
 TRMM
 ----
