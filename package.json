@@ -1,0 +1,22 @@
+{
+  "name": "remote",
+  "version": "1.0.0",
+  "description": "Remote sensing resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacquestardie/remote.git"
+  },
+  "author": "Jacques Tardie <hi@jacquestardie.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacquestardie/remote/issues"
+  },
+  "homepage": "https://github.com/jacquestardie/remote#readme",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
